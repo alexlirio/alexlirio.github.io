@@ -1,5 +1,12 @@
 # alexlirio.github.io -  Release Notes  
 
+## 1.0.1 - June 16th, 2020
+**Features:**
+- None.
+
+**Hotfixes:**
+- Image names fixed.
+
 ## 1.0.0 - June 16th, 2020
 **Features:**
 - Add new layout and content.
