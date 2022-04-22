@@ -124,11 +124,11 @@ function moreFunction() {
   
 	if (dots.style.display === "none") {
 	  dots.style.display = "inline";
-	  btnText.innerHTML = "Learn more"; 
+	  btnText.innerHTML = "Read more"; 
 	  moreText.style.display = "none";
 	} else {
 	  dots.style.display = "none";
-	  btnText.innerHTML = "Learn less"; 
+	  btnText.innerHTML = "Read less"; 
 	  moreText.style.display = "inline";
 	}
   }
